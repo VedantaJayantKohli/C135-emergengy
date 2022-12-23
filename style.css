@@ -1,0 +1,27 @@
+.copy_right_footer
+{
+bottom:0px;
+width:100%;
+position:fixed;
+color:gray;
+background-color: black;
+line-height:3;
+text-align:center;
+}
+.heading
+{
+width:100%;
+font-size:25px;
+margin:0%;
+text-align:center;
+}
+body
+{
+background-size:cover;
+}
+canvas
+{
+border-radius:10px;
+border:2px solid white;
+box-shadow:5px 5px grey
+}
